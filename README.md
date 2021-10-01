@@ -1,2 +1,2 @@
 # SimpleSniffer
-## Simple sniffer in c#
+## Simple sniffer in C#
